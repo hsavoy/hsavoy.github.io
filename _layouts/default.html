@@ -7,6 +7,10 @@
 
     {% include header.html %}
 
+    {% if page && page.css %}
+      <link rel='stylesheet' type='text/css' href='../stylesheets/{{ page.css }}.css' />
+    {% endif %}
+
     <div class="page-content">
       <div class="wrapper">
         {{ content }}

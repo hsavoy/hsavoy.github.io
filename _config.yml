@@ -15,7 +15,7 @@ description: > # this means to ignore newlines until "baseurl:"
   scientific computing. 
 baseurl: "/hsavoy.github.io" # the subpath of your site, e.g. /blog
 url: "http://hsavoy.github.io" # the base hostname & protocol for your site
-twitter_username: 
+linkedin_username: hsavoy 
 github_username:  hsavoy
 
 # Build settings
