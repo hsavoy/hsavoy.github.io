@@ -6,4 +6,4 @@ categories: Update
 
 ---
 
-I recently discovered Github pages so I'm in the middle of setting this up. More into to come!
+I recently discovered Github pages so I'm in the middle of setting this up. More info to come!
