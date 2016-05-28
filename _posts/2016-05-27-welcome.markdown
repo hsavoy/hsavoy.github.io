@@ -2,6 +2,8 @@
 layout: post
 title:  "Welcome"
 date:   2016-05-27 21:25:18 -0700
-categories: update
+categories: Update
+
 ---
+
 I recently discovered Github pages so I'm in the middle of setting this up. More into to come!
